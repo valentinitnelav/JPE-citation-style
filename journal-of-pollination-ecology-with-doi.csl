@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="biology"/>
     <issn>1920-7603</issn>
-    <updated>2014-09-08T06:47:26+00:00</updated>
+    <updated>2023-12-04T20:11:00+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale>
@@ -87,9 +87,9 @@
   </macro>
   <macro name="doi">
     <choose>
-        <if variable="DOI">
-            <text variable="DOI" prefix="https://doi.org/"/>
-        </if>
+      <if variable="DOI">
+        <text variable="DOI" prefix="https://doi.org/"/>
+      </if>
     </choose>
   </macro>
   <citation collapse="year" et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true">
