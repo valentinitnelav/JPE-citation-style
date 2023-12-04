@@ -4,7 +4,7 @@ This repository contains an enhanced version of the citation style for the Journ
 
 I have updated the existing CSL file from the [Zotero repository][1] to support the inclusion of DOIs (Digital Object Identifiers) in citations.
 
-I will make an update request to the Zotero repository, but until then, you can use the file `journal-of-pollination-ecology-with-doi.csl` directly with your Zotero application like this (tested for Windows OS):
+I will make an update request to the Zotero repository, but until then, you can use the file `journal-of-pollination-ecology-with-doi.csl` directly with your Zotero application like this (tested for Windows & Ubuntu OS):
 
 - download the `journal-of-pollination-ecology-with-doi.csl` from this repository;
 - in your Zotero app, from the menu **Edit** select the **Preferences** option;
