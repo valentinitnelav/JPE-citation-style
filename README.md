@@ -16,3 +16,5 @@ I will make an update request to the Zotero repository, but until then, you can 
 - enjoy :)
 
 [1]: https://www.zotero.org/styles/journal-of-pollination-ecology
+
+A pull request was made here https://github.com/citation-style-language/styles/pull/6804#pullrequestreview-1763245347
